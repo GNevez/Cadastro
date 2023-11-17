@@ -1,2 +1,4 @@
-# Cadastro
-Sistema de cadastros simples feito em C
+Autor: Guilherme Neves M Ferraz
+Matricula: UC23100623
+Instituição: UCB - Universidade Catolica de Brasilia
+Professora: Hially Rabelo
